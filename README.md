@@ -5,3 +5,6 @@ Fakultas : Ilmu Komputer
 Prodi : Sistem komputer
 Angkatan : 2023
 Indralaya
+
+Bismillahirrahmanirrahim
+Program Ini dibuat pada tanggal 5 Dimana saya mengerjakan Soal UAS Pemerograman Komputer 10 Soal.TRerima kasih.
